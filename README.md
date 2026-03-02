@@ -20,7 +20,6 @@
     <ul>
       <li> <b>Atualmente:</b> Desenvolvendo projetos de robótica com foco em sistemas de controle.</li>
       <li> <b>Trajetória:</b> Ex-aluna de Física (UFPR) </li>
-      <li><b>Objetivo:</b> Pesquisa Acadêmica na <b>Technische Universität München (TUM)</b> em 2027.</li>
     </ul>
   </div>
 </div>
