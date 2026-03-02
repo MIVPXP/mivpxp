@@ -3,7 +3,6 @@
   <p><strong>Engenheira Mecatrônica em formação | Pesquisadora | Entusiasta de Física & Robótica</strong></p>
   
   <p>
-    <img src="https://img.shields.io/badge/Status-Focada_em_TUM_2027-0065BD?style=for-the-badge&logo=target" alt="Status">
     <img src="https://img.shields.io/badge/Localização-Curitiba, Brazil-00A859?style=for-the-badge&logo=google-maps&logoColor=white" alt="Local">
   </p>
 </div>
